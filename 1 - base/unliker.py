@@ -7,8 +7,8 @@ from instagram_private_api import Client, ClientError, ClientTwoFactorRequiredEr
 
 like_removal_amount = 30
 quiet_mode = False
-username = "YOUR_USERNAME"
-password = "YOUR_PASSWORD"
+username = "mukeshkumar.yaduvanshi.73"
+password = "MKYadav@2106"
 
 # =======================================
 
