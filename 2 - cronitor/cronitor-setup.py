@@ -1,8 +1,7 @@
 import cronitor
 
-cronitor.api_key = "YOUR_API_KEY"
+cronitor.api_key = "c25b3667dcbf42498c6a86b01dd9cb3c"
 cronitor.Monitor.put(
-    key="YOUR_JOB_NAME",
+    key="Instagran Unliker",
     type="job",
-    schedule="0 */2 * * *"  # Or whatever interval you want (default: every 2 hours)
-)
+    schedule="0 0 * * *"  
